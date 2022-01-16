@@ -2,6 +2,12 @@
 
 #### **Alternative Ways of Registering a Processor**
 
+```
+in fact, the processor is called by the javac compiler.	
+```
+
+
+
 #####  using the javac compiler 
 
 * compiled the processor and the annotation 
@@ -107,7 +113,7 @@ package3.Processor3
 
 
 
-##### sUse the Google sauto-service Library**
+##### Use the Google sauto-service Library**
 
 ```
 To generate the registration file automatically, you can use the @AutoService annotation from the Google's auto-service library, like this:
