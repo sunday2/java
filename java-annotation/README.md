@@ -3,7 +3,7 @@
 #### **Alternative Ways of Registering a Processor**
 
 ```
-in fact, the processor is called by the javac compiler.	
+In fact, the processor is called by the javac compiler.	
 ```
 
 
